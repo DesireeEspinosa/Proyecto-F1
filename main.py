@@ -2,7 +2,7 @@
 # 25/11/2022
 # Kirill Makienko Tkachenko
 # Dulce Nahomi Bucio Rivas
-# Desireé Espinosa Contreras
+# Desirée Espinosa Contreras
 # Samuel Eric Miranda Álvarez
 # Oscar Omar Cepeda Vázquez 
 
@@ -11,7 +11,7 @@ import csv
 import pandas as pd
 from funciones import *
 
-# como nadien de ustedes estaban, dulce y kirill tomamos la desicion ejecutiva de trabajar con python default, sin pandas
+# como nadie de ustedes estaban, dulce y kirill tomamos la desicion ejecutiva de trabajar con python default, sin pandas
 
 # Por hacer:
 # Logica de curvas y rectas
